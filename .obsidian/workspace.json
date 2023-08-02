@@ -1,35 +1,56 @@
 {
   "main": {
-    "id": "82cf9ec99d4c8338",
+    "id": "b33d79e8b2129911",
     "type": "split",
     "children": [
       {
-        "id": "8ba0d250daff09b5",
+        "id": "4a3450a8a58fe533",
         "type": "tabs",
         "children": [
           {
-            "id": "e6e5e41b877f849b",
+            "id": "cc76e9469ba1e25e",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "30bdd6f2e3e7759b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeit/Verträge/2022/LBV-A-26_2018.pdf"
+              }
+            }
+          },
+          {
+            "id": "9a87b7d2087e87ac",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Arbeit/Verträge/2023/LBV-A-26_2018.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "353878edc797e8d4",
+    "id": "97d6422cf96b7d84",
     "type": "split",
     "children": [
       {
-        "id": "05703fb072ac2c2a",
+        "id": "042630318f3c7bcd",
         "type": "tabs",
         "children": [
           {
-            "id": "590568c6640dd24c",
+            "id": "0749859aea090f36",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,7 +60,7 @@
             }
           },
           {
-            "id": "cf93ce18f246a14f",
+            "id": "58d201679e552991",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,7 +75,7 @@
             }
           },
           {
-            "id": "99c24b6c089fa8bd",
+            "id": "49dc83e595f3e356",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,19 +89,20 @@
     "width": 300
   },
   "right": {
-    "id": "ffa32c3c1c2b36f8",
+    "id": "fcc9bd58ef91c700",
     "type": "split",
     "children": [
       {
-        "id": "ced796077694c230",
+        "id": "d2409a50e584b928",
         "type": "tabs",
         "children": [
           {
-            "id": "d5c37b85e318a7be",
+            "id": "ca7f6aa20ec07e7a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Arbeit/Verträge/2022/LBV-A-26_2018.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +114,19 @@
             }
           },
           {
-            "id": "b53bea08b6f21092",
+            "id": "a4d35e0b5a37d0f7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Arbeit/Verträge/2022/LBV-A-26_2018.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6d2c68cadcd1d669",
+            "id": "d000818d3725e7a3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,10 +137,20 @@
             }
           },
           {
-            "id": "caf4f98d9df9ec6a",
+            "id": "c4ed743963ed70bc",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "Arbeit/Verträge/2022/LBV-A-26_2018.pdf"
+              }
+            }
+          },
+          {
+            "id": "011c021f6140d6c6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -130,14 +163,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6e5e41b877f849b",
-  "lastOpenFiles": []
+  "active": "30bdd6f2e3e7759b",
+  "lastOpenFiles": [
+    "Arbeit/Verträge/2023/LBV-A-26_2018.pdf",
+    "Arbeit/Verträge/2022/LBV-A-26_2018.pdf",
+    "Arbeit/Verträge/2023/lbv-a-_02_sv_2021_02.pdf",
+    "Arbeit/Verträge/2023/Pilavci_NWS_SS2023_Antrag_Hilfskraefte_11-20-ma.pdf",
+    "ToDo´s/Computer Vision.md",
+    "Obsidian/Templates/Übung.md",
+    "Obsidian/Templates/Vorlesung.md",
+    "Obsidian/Templates/DayPlanner.md",
+    "Obsidian/Templates",
+    "Obsidian/Jupyter_PATH.md",
+    "Obsidian",
+    "Aufgaben Reihenfolge.canvas",
+    "ToDo´s/Output Interpretation and Design.md",
+    "ToDo´s/Webserver.md",
+    "ToDo´s/Device Specification.md",
+    "ToDo´s/TinyML.md",
+    "ToDo´s",
+    "permanent_notes",
+    "Untitled 1",
+    "fleeting_notes"
+  ]
 }
